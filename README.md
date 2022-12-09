@@ -4,3 +4,5 @@ AI-102 is MCQ based Exam which is focused on AI related services of Azure Cloud.
 
 * Follow the official Microsoft repo of [AI-102-AIEngineer](https://github.com/MicrosoftLearning/AI-102-AIEngineer) for handson. You might need free azure trail subscription for handson.
 
+## Text Analytics
+* has `detect_language` method to `TextAnalyticsClient`
