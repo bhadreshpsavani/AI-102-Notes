@@ -33,3 +33,7 @@ The Read API uses an asynchronous operation model, in which a request to start t
 ## Form Recognizer:
 
 Form Recognizer is a cognitive service that enables users to build automated data processing software. This software can extract text, key/value pairs, and tables from form documents using optical character recognition (OCR). Form Recognizer has pre-built models for recognizing invoices, receipts, and business cards. The service also provides the capability to train custom models.
+
+
+## Azure Cognitive Search 
+used to implement a solution in which the documents are indexed and enriched by using AI-based cognitive skills to make them easier to search.
