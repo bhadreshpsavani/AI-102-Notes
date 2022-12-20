@@ -16,3 +16,6 @@ With `azure cli` we can list and regenerate auth keys
 
 ## Text Analytics
 * has `detect_language` method to `TextAnalyticsClient`
+
+## Computer Vision VS Face Service:
+While the Computer Vision service offers basic face detection (along with many other image analysis capabilities), the Face service provides more comprehensive functionality for facial analysis and recognition.
