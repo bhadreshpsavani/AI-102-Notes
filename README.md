@@ -21,3 +21,5 @@ With `azure cli` we can list and regenerate auth keys
 While the Computer Vision service offers basic face detection (along with many other image analysis capabilities), the Face service provides more comprehensive functionality for facial analysis and recognition.
 
 One of the most fundamental capabilities of the Face service is to detect faces in an image, and determine their attributes, such as head pose, blur, the presence of spectacles, and so on.
+
+Optical character recognition (OCR) is a subset of computer vision that deals with reading text in images and documents. 
