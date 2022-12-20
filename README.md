@@ -23,3 +23,7 @@ While the Computer Vision service offers basic face detection (along with many o
 One of the most fundamental capabilities of the Face service is to detect faces in an image, and determine their attributes, such as head pose, blur, the presence of spectacles, and so on.
 
 Optical character recognition (OCR) is a subset of computer vision that deals with reading text in images and documents. 
+
+The Read API uses a newer text recognition model and generally performs better for larger images that contain a lot of text, but will work for any amount of text. It also supports text extraction from .pdf files, and can recognize both printed text and handwritten text in multiple languages.
+
+The Read API uses an asynchronous operation model, in which a request to start text recognition is submitted; and the operation ID returned from the request can subsequently be used to check progress and retrieve results.
